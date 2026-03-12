@@ -15,7 +15,6 @@ This project implements a basic Arduino control system for an RC boat.
 
 ## Files
 - Boat_Arduino_Codes.ino → main control program
-- StopLight.ino → LED test program
 
 ## Future Improvements
 - Add ESC calibration
